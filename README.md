@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- Hi, my name is Mehmet. I graduated from Dokuz Eylül University with a degree in Electrical and Electronics Engineering in 2022.
+- I am Mehmet. I graduated from Dokuz Eylül University with a degree in Electrical and Electronics Engineering in 2022.
 - Currently focused on Data Structures and Algorithms, actively learning and implementing.
 - Expanding knowledge in Enterprise Software Architecture to enhance proficiency.
 - Interested in Full Stack Web Development, particularly utilizing React and JavaScript for frontend development and .NET Core for backend development.
