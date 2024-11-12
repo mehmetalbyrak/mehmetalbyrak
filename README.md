@@ -5,14 +5,14 @@
   <img src="https://example.com/animated-hi-there.gif" alt="Hi there Animation" width="300" height="100"/>
 </div>
 
-I'm **Mehmet Albayrak**, a passionate Software Developer with a strong foundation in backend development, leveraging **C#** and **.NET Core** to build efficient and scalable applications. I also specialize in **frontend development**, particularly with **JavaScript** and **React**, creating dynamic and responsive user interfaces to ensure a seamless user experience.
+I'm **Mehmet**, a passionate Software Developer with a strong foundation in backend development, leveraging **C#** and **.NET Core** to build efficient and scalable applications. I also specialize in **frontend development**, particularly with **JavaScript** and **React**, creating dynamic and responsive user interfaces to ensure a seamless user experience.
 
 ---
 
 - 🎓 **Education**: Graduated from Dokuz Eylül University with a degree in Electrical and Electronics Engineering in 2022.
 - 🚀 **Currently Focused On**: Data Structures and Algorithms, actively learning and implementing.
 - 🏢 **Exploring**: Enterprise Software Architecture to enhance proficiency in building complex software solutions.
-- 💻 **Specialized In**: Full Stack Web Development using **React** and **JavaScript** on the frontend and **.NET Core** on the backend.
+- 💻 **Specialized In**: Full Stack Web Development using **JavaScript** and **React** on the frontend and **.NET Core** on the backend.
 - 🎯 **Goal**: Continuously expanding and deepening my skills in Full Stack Web Development.
 - 🌱 **Passionate About**: Continuous learning in technology and engineering, eagerly embracing new challenges and growth opportunities.
 
