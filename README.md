@@ -59,14 +59,6 @@ I'm **Mehmet**, a passionate Software Developer with a strong foundation in back
 
 ---
 
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalbyrak&layout=compact&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 <div align="center">
   "Building sustainable, scalable solutions for a better digital world." ✨
 </div>
