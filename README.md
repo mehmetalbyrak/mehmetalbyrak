@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
 <div align="center">
@@ -12,17 +12,14 @@
     Specialized in <strong>.NET Core</strong>, <strong>JavaScript</strong> & <strong>React</strong>
   </p>
   <p>
-    Currently exploring iOS Development with <strong>Swift</strong> & <strong>SwiftUI</strong>
-  </p>
+    Actively advancing expertise in iOS development, focusing on <strong>Swift</strong> and <strong>SwiftUI</strong> to build modern and user-centric applications.
+</p>
+
 </div>
 
 ---
 
 - 🎓 **Education**: Graduated from Dokuz Eylül University with a degree in Electrical and Electronics Engineering in 2022.  
-- 🚀 **Currently Focused On**: Expanding expertise in **iOS Development** by learning **Swift** and **SwiftUI**, while continuing to enhance skills in web development.  
-- 🏢 **Exploring**: Both **Mobile App Architectures** for scalable iOS solutions and **Enterprise Software Architecture** for building robust web applications.  
-- 💻 **Specialized In**: Full Stack Web Development using **JavaScript** and **React** on the frontend and **.NET Core** on the backend, with growing proficiency in **iOS Development**.  
-- 🎯 **Goal**: Master both **iOS Development** and **Full Stack Web Development** to create seamless experiences across platforms.  
 - 🌱 **Passionate About**: Continuously learning and embracing new challenges in web and mobile technologies to deliver innovative and impactful solutions.  
 
 
