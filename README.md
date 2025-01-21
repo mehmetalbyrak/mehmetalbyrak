@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
@@ -12,10 +12,10 @@
     Specialized in <strong>.NET Core</strong>, <strong>JavaScript</strong> & <strong>React</strong>
   </p>
   <p>
-    Actively advancing expertise in iOS development, focusing on <strong>Swift</strong> and <strong>SwiftUI</strong> to build modern and user-centric applications.
-</p>
-
+    Enhancing skills in iOS development with <strong>Swift</strong> and <strong>SwiftUI</strong> to create modern applications.
+  </p>
 </div>
+
 
 ---
 
