@@ -1,12 +1,20 @@
-### Hi there 👋
-
 
 <div align="center">
-  <img src="https://example.com/animated-hi-there.gif" alt="Hi there Animation" width="300" height="100"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F83F8&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mehmet+ALBAYRAK;Software+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-I'm **Mehmet**, a Passionate Software Developer with expertise in **.NET Core**, **JavaScript** and **React**, now exploring **iOS Development** with **Swift** and **SwiftUI**.
+<div align="center">
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
+<div align="center">
+  <p>
+    Specialized in <strong>.NET Core</strong>, <strong>JavaScript</strong> & <strong>React</strong>
+  </p>
+  <p>
+    Currently exploring iOS Development with <strong>Swift</strong> & <strong>SwiftUI</strong>
+  </p>
+</div>
 
 ---
 
@@ -60,6 +68,9 @@ I'm **Mehmet**, a Passionate Software Developer with expertise in **.NET Core**,
 </a>&nbsp;
 <a href="https://medium.com/@albayrakmehmetdeu" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/medium-logo.png" title="Medium" alt="Medium" width="40" height="40"/>
+</a>&nbsp;
+<a href="mailto:albayrakmehmetdeu@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="Gmail" alt="Gmail" width="40" height="40"/>
 </a>
 
 </div>
